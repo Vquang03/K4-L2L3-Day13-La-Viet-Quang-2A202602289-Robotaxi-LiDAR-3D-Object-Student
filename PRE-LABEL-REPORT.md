@@ -4,8 +4,8 @@ Giữ bản đã điền ngoài Git, trong thư mục nhóm private do LC thu. �
 
 ## Nhóm và provenance
 
-- Mã nhóm/phòng: giữ trong hồ sơ riêng của LC, không có trong folder `ket-qua-ca-nhan`.
-- Thành viên: xem `TEAMMATES.md` (họ tên/MSSV, vai trò từng lượt).
+- Mã nhóm/phòng: 
+- Thành viên: Lã Việt Quang.
 - Trạng thái: `executed-on-room-LC-machine`.
 - Người thực sự chạy; ngày/giờ; hệ máy/architecture: dữ liệu thực tế trong `smoke.json` cho thấy chạy đúng trong container Linux `amd64`, không có thông tin người và thời gian cá nhân ở đây.
 - Image tag và image ID; phiên bản repo:
